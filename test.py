@@ -1,1 +1,1 @@
-echo "Hello word"
+print("aahaha")
